@@ -1,0 +1,6 @@
+district,flood_history_score,major_past_events,vulnerable_hotspots,historical_inundation_frequency
+Hyderabad,80,"2000, 2016, 2020, 2022","Alwal, Begumpet, Nadeem Colony, Ramanthapur, Chaderghat, Musi riverbed",High
+Warangal,65,"2016, 2020, 2023","Naimnagar, Hunter Road, Bhadrakali bund lowlands, Pochamma Maidan",Moderate-High
+Nirmal,75,"2021, 2022, 2023 Kadam dam overflow","GMR colony, Sofinagar, Kadam downstream villages, Khanapur",High
+Mancherial,70,"2018, 2022, 2023 Pranhita surge","Godavarikhani-Mancherial lowlands, Bellampalli nala, Luxettipet",Moderate-High
+Bhadradri Kothagudem,88,"1986, 2006, 2022 (71.3 ft record), 2023","Bhadrachalam temple ghats, Burgampahad, Dummugudem, Aswapuram",Very High

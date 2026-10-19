@@ -1,0 +1,6 @@
+district,lat,lng,terrain_type,river_basin,location_risk_score,terrain_vulnerability,description
+Hyderabad,17.3850,78.4867,Urban Plateau / Undulating,Musi River & Osmansagar,85,85,Dense metropolitan terrain with heavy urbanization and constrained natural drainage channels
+Warangal,17.9689,79.5941,Semi-Arid Basin / Low-Lying,Godavari Sub-basin (Kakatiya canal network),70,70,Historic lake networks (Bhadrakali, Waddepally) with low-lying flood-prone zones
+Nirmal,19.0964,78.3431,Hilly / Forest Escarpment,Godavari River Basin & Kadam Reservoir,75,75,Steep catchment gradient prone to flash floods from heavy Western Ghats monsoon runoff
+Mancherial,18.8679,79.4639,Riverine Plain / Mining Corridor,Godavari & Pranhita Confluence,80,80,Riverine lowland bordering Godavari-Pranhita confluence with coal belt topography
+Bhadradri Kothagudem,17.5554,80.6179,Riparian Floodplain / Forested Basin,Lower Godavari Basin & Bhadrachalam ghats,90,90,Downstream Godavari gorge zone historically vulnerable to upstream barrage discharges

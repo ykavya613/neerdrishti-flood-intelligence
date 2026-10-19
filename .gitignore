@@ -1,0 +1,31 @@
+# Python ignores
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+*.db
+*.sqlite3
+.pytest_cache/
+
+# Node ignores
+node_modules/
+build/
+dist/
+coverage/
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# OS / Editor files
+.DS_Store
+.vscode/
+.idea/

@@ -1,0 +1,663 @@
+[
+  {
+    "station_id": "STN_GODAVARI_BHADRACHALAM",
+    "station_name": "Bhadrachalam Gauge Station",
+    "water_body_name": "Godavari River",
+    "water_body_type": "RIVER",
+    "district_id": "bhadradri_kothagudem",
+    "basin": "Godavari Basin",
+    "latitude": 17.6688,
+    "longitude": 80.8936,
+    "warning_threshold": 43.0,
+    "danger_threshold": 53.0,
+    "unit": "ft",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "gauge_zero_elevation_m": 34.75,
+      "description": "Central Water Commission (CWC) Key Flood Forecasting Site on Lower Godavari Main Stem. 1st Warning 43ft, 2nd Warning 48ft, 3rd Danger Level 53ft.",
+      "source": "CWC Telangana Hydrological Observation Network & SDMA Records"
+    }
+  },
+  {
+    "station_id": "STN_GODAVARI_SRSP",
+    "station_name": "Sriram Sagar Dam (SRSP)",
+    "water_body_name": "Godavari River / SRSP Reservoir",
+    "water_body_type": "RESERVOIR",
+    "district_id": "nizamabad",
+    "basin": "Godavari Basin",
+    "latitude": 18.9667,
+    "longitude": 78.3333,
+    "warning_threshold": 1088.0,
+    "danger_threshold": 1091.0,
+    "unit": "ft",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "full_reservoir_level": 1091.0,
+      "gross_storage_tmc": 90.31,
+      "description": "Major multi-purpose reservoir at Pochampad on Godavari River. Gates operated for flood buffer when level crosses 1088ft.",
+      "source": "Telangana Irrigation & CAD Department Daily Dam Bulletins"
+    }
+  },
+  {
+    "station_id": "STN_KADAM_RESERVOIR",
+    "station_name": "Kadam Dam Reservoir Gauge",
+    "water_body_name": "Kadam River",
+    "water_body_type": "RESERVOIR",
+    "district_id": "nirmal",
+    "basin": "Godavari Sub-basin",
+    "latitude": 19.1235,
+    "longitude": 78.7845,
+    "warning_threshold": 695.0,
+    "danger_threshold": 700.0,
+    "unit": "ft",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "full_reservoir_level": 700.0,
+      "gross_storage_tmc": 7.6,
+      "description": "Flash-flood prone reservoir in steep Sahyadri catchment. Severe flood surge recorded in July 2022.",
+      "source": "I&CAD Nirmal Circle Hydrograph Logs"
+    }
+  },
+  {
+    "station_id": "STN_KRISHNA_NAGARJUNA_SAGAR",
+    "station_name": "Nagarjuna Sagar Dam",
+    "water_body_name": "Krishna River",
+    "water_body_type": "RESERVOIR",
+    "district_id": "nalgonda",
+    "basin": "Krishna Basin",
+    "latitude": 16.5772,
+    "longitude": 79.3134,
+    "warning_threshold": 585.0,
+    "danger_threshold": 590.0,
+    "unit": "ft",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "full_reservoir_level": 590.0,
+      "gross_storage_tmc": 312.0,
+      "description": "Major terminal reservoir on Krishna River bordering Nalgonda and Guntur/Palnadu.",
+      "source": "Krishna River Management Board (KRMB)"
+    }
+  },
+  {
+    "station_id": "STN_KRISHNA_JURALA",
+    "station_name": "Priyadarshini Jurala Project",
+    "water_body_name": "Krishna River",
+    "water_body_type": "RESERVOIR",
+    "district_id": "jogulamba_gadwal",
+    "basin": "Krishna Basin",
+    "latitude": 16.3312,
+    "longitude": 77.6989,
+    "warning_threshold": 1042.0,
+    "danger_threshold": 1045.0,
+    "unit": "ft",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "full_reservoir_level": 1045.0,
+      "gross_storage_tmc": 9.66,
+      "description": "First major entry reservoir on Krishna River entering Telangana from Karnataka.",
+      "source": "I&CAD Gadwal Division Flood Logs"
+    }
+  },
+  {
+    "station_id": "STN_GODAVARI_YELLAMPALLI",
+    "station_name": "Sripada Yellampalli Project",
+    "water_body_name": "Godavari River",
+    "water_body_type": "BARRAGE",
+    "district_id": "peddapalli",
+    "basin": "Godavari Basin",
+    "latitude": 18.8402,
+    "longitude": 79.3872,
+    "warning_threshold": 146.0,
+    "danger_threshold": 148.0,
+    "unit": "m",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "full_reservoir_level": 148.0,
+      "gross_storage_tmc": 20.17,
+      "description": "Key barrage balancing Godavari inflows and Hyderabad drinking water supply.",
+      "source": "I&CAD Ramagundam Circle"
+    }
+  },
+  {
+    "station_id": "STN_MANAIR_MID_MANAIR",
+    "station_name": "Mid Manair Dam (Sri Raja Rajeshwara)",
+    "water_body_name": "Manair River",
+    "water_body_type": "RESERVOIR",
+    "district_id": "rajanna_sircilla",
+    "basin": "Godavari Sub-basin",
+    "latitude": 18.4056,
+    "longitude": 78.8954,
+    "warning_threshold": 316.0,
+    "danger_threshold": 318.0,
+    "unit": "m",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "full_reservoir_level": 318.0,
+      "gross_storage_tmc": 27.5,
+      "description": "Crucial mid-stream balancing reservoir on Manair River in Rajanna Sircilla district.",
+      "source": "Telangana Water Resources Department"
+    }
+  },
+  {
+    "station_id": "STN_MANAIR_LOWER_MANAIR",
+    "station_name": "Lower Manair Dam (LMD)",
+    "water_body_name": "Manair River",
+    "water_body_type": "RESERVOIR",
+    "district_id": "karimnagar",
+    "basin": "Godavari Sub-basin",
+    "latitude": 18.4167,
+    "longitude": 79.1333,
+    "warning_threshold": 915.0,
+    "danger_threshold": 920.0,
+    "unit": "ft",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "full_reservoir_level": 920.0,
+      "gross_storage_tmc": 24.03,
+      "description": "Dam on outskirts of Karimnagar city controlling urban and agricultural flood releases.",
+      "source": "I&CAD Karimnagar Division"
+    }
+  },
+  {
+    "station_id": "STN_MANJEERA_SINGUR",
+    "station_name": "Singur Reservoir Gauge",
+    "water_body_name": "Manjeera River",
+    "water_body_type": "RESERVOIR",
+    "district_id": "sangareddy",
+    "basin": "Godavari Sub-basin",
+    "latitude": 17.7500,
+    "longitude": 77.9167,
+    "warning_threshold": 521.5,
+    "danger_threshold": 523.6,
+    "unit": "m",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "full_reservoir_level": 523.6,
+      "gross_storage_tmc": 29.91,
+      "description": "Major dam on Manjeera River providing flood moderation and urban drinking water.",
+      "source": "HMWSSB / I&CAD Sangareddy"
+    }
+  },
+  {
+    "station_id": "STN_MANJEERA_NIZAM_SAGAR",
+    "station_name": "Nizam Sagar Dam",
+    "water_body_name": "Manjeera River",
+    "water_body_type": "RESERVOIR",
+    "district_id": "kamareddy",
+    "basin": "Godavari Sub-basin",
+    "latitude": 18.1750,
+    "longitude": 77.9417,
+    "warning_threshold": 1400.0,
+    "danger_threshold": 1405.0,
+    "unit": "ft",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "full_reservoir_level": 1405.0,
+      "gross_storage_tmc": 17.8,
+      "description": "Historic dam built across Manjeera River in Kamareddy district.",
+      "source": "I&CAD Kamareddy"
+    }
+  },
+  {
+    "station_id": "STN_MUSI_OSMAN_SAGAR",
+    "station_name": "Osman Sagar (Gandipet)",
+    "water_body_name": "Musi River",
+    "water_body_type": "RESERVOIR",
+    "district_id": "rangareddy",
+    "basin": "Krishna Sub-basin",
+    "latitude": 17.3775,
+    "longitude": 78.2978,
+    "warning_threshold": 1788.0,
+    "danger_threshold": 1790.0,
+    "unit": "ft",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "full_reservoir_level": 1790.0,
+      "gross_storage_tmc": 3.9,
+      "description": "Historic flood control reservoir built by Seventh Nizam following the 1908 Musi flood.",
+      "source": "HMWSSB Osman Sagar Control Station"
+    }
+  },
+  {
+    "station_id": "STN_MUSI_HIMAYAT_SAGAR",
+    "station_name": "Himayat Sagar",
+    "water_body_name": "Esa River",
+    "water_body_type": "RESERVOIR",
+    "district_id": "rangareddy",
+    "basin": "Krishna Sub-basin",
+    "latitude": 17.3181,
+    "longitude": 78.3589,
+    "warning_threshold": 1761.0,
+    "danger_threshold": 1763.5,
+    "unit": "ft",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "full_reservoir_level": 1763.5,
+      "gross_storage_tmc": 2.9,
+      "description": "Twin reservoir to Osman Sagar on Esa River tributary protecting Hyderabad core.",
+      "source": "HMWSSB Himayat Sagar Monitoring Cell"
+    }
+  },
+  {
+    "station_id": "STN_MUSI_MOOSARAMBAGH",
+    "station_name": "Musi River Moosarambagh Causeway Gauge",
+    "water_body_name": "Musi River",
+    "water_body_type": "RIVER",
+    "district_id": "hyderabad",
+    "basin": "Krishna Sub-basin",
+    "latitude": 17.3712,
+    "longitude": 78.5083,
+    "warning_threshold": 4.5,
+    "danger_threshold": 6.0,
+    "unit": "m",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "description": "Urban gauge station monitoring Musi causeway submersion and colony waterlogging in Malakpet/Amberpet.",
+      "source": "GHMC Disaster Response & Monitoring Cell"
+    }
+  },
+  {
+    "station_id": "STN_GODAVARI_MEDIGADDA",
+    "station_name": "Medigadda (Laxmi) Barrage",
+    "water_body_name": "Godavari River",
+    "water_body_type": "BARRAGE",
+    "district_id": "jayashankar_bhupalpally",
+    "basin": "Godavari Basin",
+    "latitude": 18.7231,
+    "longitude": 79.9458,
+    "warning_threshold": 98.0,
+    "danger_threshold": 100.0,
+    "unit": "m",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "full_reservoir_level": 100.0,
+      "gross_storage_tmc": 16.17,
+      "description": "Major barrage downstream of Godavari-Pranahita confluence controlling massive monsoon discharge.",
+      "source": "Kaleshwaram Project Operations Wing"
+    }
+  },
+  {
+    "station_id": "STN_MUNNERU_KHAMMAM",
+    "station_name": "Munneru River Urban Bridge Gauge",
+    "water_body_name": "Munneru River",
+    "water_body_type": "RIVER",
+    "district_id": "khammam",
+    "basin": "Krishna Sub-basin",
+    "latitude": 17.2472,
+    "longitude": 80.1514,
+    "warning_threshold": 14.0,
+    "danger_threshold": 16.0,
+    "unit": "ft",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "description": "Urban flash-flood gauge monitoring inundation of Khammam Prakash Nagar and low-lying river wards.",
+      "source": "Khammam Municipal Corporation & CWC"
+    }
+  },
+  {
+    "station_id": "STN_KAKATIYA_CASCADE_WARANGAL",
+    "station_name": "Bhadrakali & Waddepally Cascade Outflow",
+    "water_body_name": "Kakatiya Tank Cascade",
+    "water_body_type": "LAKE_CASCADE",
+    "district_id": "warangal",
+    "basin": "Munneru Sub-basin",
+    "latitude": 17.9892,
+    "longitude": 79.5875,
+    "warning_threshold": 4.0,
+    "danger_threshold": 5.5,
+    "unit": "m",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "description": "Interconnected chain tank weir monitoring overflow discharges into Naimnagar and Hunter Road nalas.",
+      "source": "GWMC Flood Cell"
+    }
+  },
+  {
+    "station_id": "STN_PENGANGA_BELA",
+    "station_name": "Penganga River Bela Station",
+    "water_body_name": "Penganga River",
+    "water_body_type": "RIVER",
+    "district_id": "adilabad",
+    "basin": "Godavari Sub-basin",
+    "latitude": 19.7833,
+    "longitude": 78.8167,
+    "warning_threshold": 228.0,
+    "danger_threshold": 231.0,
+    "unit": "m",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "description": "Northern border river station measuring flood flows from Maharashtra into Adilabad district.",
+      "source": "CWC Godavari Circle"
+    }
+  },
+  {
+    "station_id": "STN_PEDDAVAGU_KOMARAM_BHEEM",
+    "station_name": "Komaram Bheem Project Dam",
+    "water_body_name": "Peddavagu River",
+    "water_body_type": "RESERVOIR",
+    "district_id": "kumuram_bheem_asifabad",
+    "basin": "Pranahita Sub-basin",
+    "latitude": 19.3583,
+    "longitude": 79.3167,
+    "warning_threshold": 240.0,
+    "danger_threshold": 243.0,
+    "unit": "m",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "full_reservoir_level": 243.0,
+      "gross_storage_tmc": 6.07,
+      "description": "Reservoir constructed on Peddavagu river in Asifabad district.",
+      "source": "I&CAD Asifabad"
+    }
+  },
+  {
+    "station_id": "STN_DINDI_RESERVOIR",
+    "station_name": "Dindi Reservoir Station",
+    "water_body_name": "Dindi River",
+    "water_body_type": "RESERVOIR",
+    "district_id": "nagarkurnool",
+    "basin": "Krishna Sub-basin",
+    "latitude": 16.5333,
+    "longitude": 78.8500,
+    "warning_threshold": 280.0,
+    "danger_threshold": 285.0,
+    "unit": "m",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "gross_storage_tmc": 2.0,
+      "description": "Medium irrigation reservoir in Dindi catchment near Nagarkurnool/Nalgonda border.",
+      "source": "I&CAD Nalgonda/Nagarkurnool"
+    }
+  },
+  {
+    "station_id": "STN_KOILSAGAR_DAM",
+    "station_name": "Koilsagar Dam",
+    "water_body_name": "Peddavagu River",
+    "water_body_type": "RESERVOIR",
+    "district_id": "mahabubnagar",
+    "basin": "Krishna Sub-basin",
+    "latitude": 16.6500,
+    "longitude": 77.8333,
+    "warning_threshold": 326.0,
+    "danger_threshold": 328.0,
+    "unit": "m",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "gross_storage_tmc": 3.9,
+      "description": "Historic dam in Mahabubnagar controlling seasonal flash runoffs.",
+      "source": "I&CAD Mahabubnagar"
+    }
+  },
+  {
+    "station_id": "STN_WYRA_RESERVOIR",
+    "station_name": "Wyra Reservoir",
+    "water_body_name": "Wyra River",
+    "water_body_type": "RESERVOIR",
+    "district_id": "khammam",
+    "basin": "Krishna Sub-basin",
+    "latitude": 17.1833,
+    "longitude": 80.3500,
+    "warning_threshold": 310.0,
+    "danger_threshold": 315.0,
+    "unit": "ft",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "full_reservoir_level": 315.0,
+      "gross_storage_tmc": 3.2,
+      "description": "Medium irrigation reservoir in Wyra mandal regulating local agricultural basin flows.",
+      "source": "I&CAD Khammam"
+    }
+  },
+  {
+    "station_id": "STN_MALLANNA_SAGAR",
+    "station_name": "Sri Komuravelli Mallanna Sagar",
+    "water_body_name": "Kaleshwaram Lift Reservoir",
+    "water_body_type": "RESERVOIR",
+    "district_id": "siddipet",
+    "basin": "Godavari Link Canal",
+    "latitude": 17.9833,
+    "longitude": 78.8500,
+    "warning_threshold": 550.0,
+    "danger_threshold": 557.0,
+    "unit": "m",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "full_reservoir_level": 557.0,
+      "gross_storage_tmc": 50.0,
+      "description": "Largest artificial balancing reservoir of Kaleshwaram Lift Irrigation Scheme in Siddipet.",
+      "source": "I&CAD Siddipet Circle"
+    }
+  },
+  {
+    "station_id": "STN_FOX_SAGAR_DRAINAGE",
+    "station_name": "Fox Sagar Lake & Jeedimetla Nala Gauge",
+    "water_body_name": "Urban Drainage Channel",
+    "water_body_type": "DRAINAGE_CHANNEL",
+    "district_id": "medchal_malkajgiri",
+    "basin": "Musi Sub-basin Link",
+    "latitude": 17.5167,
+    "longitude": 78.4667,
+    "warning_threshold": 4.0,
+    "danger_threshold": 5.8,
+    "unit": "m",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "description": "Critical urban runoff bottleneck gauge tracking industrial corridor surplus overflows.",
+      "source": "GHMC North Zone Disaster Monitoring"
+    }
+  },
+  {
+    "station_id": "STN_AKERU_MAHABUBABAD",
+    "station_name": "Akeru River Bridge Station",
+    "water_body_name": "Akeru River",
+    "water_body_type": "RIVER",
+    "district_id": "mahabubabad",
+    "basin": "Krishna Sub-basin",
+    "latitude": 17.6000,
+    "longitude": 80.0000,
+    "warning_threshold": 8.0,
+    "danger_threshold": 10.5,
+    "unit": "m",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "description": "Railway and road bridge gauge tracking flash flooding between Mahabubabad and Khammam.",
+      "source": "I&CAD Mahabubabad"
+    }
+  },
+  {
+    "station_id": "STN_PALERU_SURYAPET",
+    "station_name": "Paleru River Suryapet Station",
+    "water_body_name": "Paleru River",
+    "water_body_type": "RIVER",
+    "district_id": "suryapet",
+    "basin": "Krishna Sub-basin",
+    "latitude": 17.1500,
+    "longitude": 79.6167,
+    "warning_threshold": 7.0,
+    "danger_threshold": 9.5,
+    "unit": "m",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "description": "Downstream Paleru river gauge monitoring flood discharge crossing NH-65 highway corridor.",
+      "source": "I&CAD Suryapet"
+    }
+  },
+  {
+    "station_id": "STN_RAMANPAD_PROJECT",
+    "station_name": "Ramanpad Reservoir (Oka Dam)",
+    "water_body_name": "Krishna River Tributary",
+    "water_body_type": "RESERVOIR",
+    "district_id": "wanaparthy",
+    "basin": "Krishna Basin",
+    "latitude": 16.3667,
+    "longitude": 77.9167,
+    "warning_threshold": 310.0,
+    "danger_threshold": 312.0,
+    "unit": "m",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "gross_storage_tmc": 1.06,
+      "description": "Reservoir catering to drinking water and irrigation in Wanaparthy and Mahabubnagar districts.",
+      "source": "I&CAD Wanaparthy"
+    }
+  },
+  {
+    "station_id": "STN_HALDI_VAGU_MEDAK",
+    "station_name": "Haldi Vagu Station",
+    "water_body_name": "Haldi River",
+    "water_body_type": "RIVER",
+    "district_id": "medak",
+    "basin": "Manjeera Sub-basin",
+    "latitude": 18.0500,
+    "longitude": 78.2667,
+    "warning_threshold": 6.0,
+    "danger_threshold": 8.0,
+    "unit": "m",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "description": "Tributary of Manjeera river causing inundation along Medak-Narsapur stretch during heavy monsoon bursts.",
+      "source": "I&CAD Medak"
+    }
+  },
+  {
+    "station_id": "STN_KAGNA_VIKARABAD",
+    "station_name": "Kagna River Tandur Station",
+    "water_body_name": "Kagna River",
+    "water_body_type": "RIVER",
+    "district_id": "vikarabad",
+    "basin": "Bhima / Krishna Basin",
+    "latitude": 17.2500,
+    "longitude": 77.5833,
+    "warning_threshold": 12.0,
+    "danger_threshold": 15.0,
+    "unit": "m",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "description": "Key river draining western plateau towards Karnataka border.",
+      "source": "I&CAD Vikarabad"
+    }
+  },
+  {
+    "station_id": "STN_ALAIR_VAGU_JANGAON",
+    "station_name": "Alair Vagu Station",
+    "water_body_name": "Alair River",
+    "water_body_type": "RIVER",
+    "district_id": "jangaon",
+    "basin": "Musi Sub-basin",
+    "latitude": 17.7667,
+    "longitude": 79.1667,
+    "warning_threshold": 5.5,
+    "danger_threshold": 7.5,
+    "unit": "m",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "description": "Drainage stream traversing Jangaon and Yadadri Bhuvanagiri.",
+      "source": "I&CAD Jangaon"
+    }
+  },
+  {
+    "station_id": "STN_PEDDAVAGU_MULUGU",
+    "station_name": "Peddavagu Mulugu River Station",
+    "water_body_name": "Peddavagu River",
+    "water_body_type": "RIVER",
+    "district_id": "mulugu",
+    "basin": "Godavari Basin",
+    "latitude": 18.1833,
+    "longitude": 80.0000,
+    "warning_threshold": 12.0,
+    "danger_threshold": 15.5,
+    "unit": "m",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "description": "Forest catchment drainage river prone to sudden hill surges during heavy Godavari cloudbursts.",
+      "source": "I&CAD Mulugu"
+    }
+  },
+  {
+    "station_id": "STN_VALIGONDA_MUSI",
+    "station_name": "Musi River Valigonda Gauge",
+    "water_body_name": "Musi River",
+    "water_body_type": "RIVER",
+    "district_id": "yadadri_bhuvanagiri",
+    "basin": "Krishna Sub-basin",
+    "latitude": 17.3833,
+    "longitude": 78.9833,
+    "warning_threshold": 5.0,
+    "danger_threshold": 6.8,
+    "unit": "m",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "description": "Downstream Musi gauge monitoring surplus discharges from Hyderabad heading toward Nalgonda.",
+      "source": "I&CAD Yadadri"
+    }
+  },
+  {
+    "station_id": "STN_BHIMA_LIFT_NARAYANPET",
+    "station_name": "Bhima Lift Okachetty Gauge",
+    "water_body_name": "Krishna River Sub-basin",
+    "water_body_type": "RIVER",
+    "district_id": "narayanpet",
+    "basin": "Krishna Basin",
+    "latitude": 16.7333,
+    "longitude": 77.5000,
+    "warning_threshold": 320.0,
+    "danger_threshold": 322.5,
+    "unit": "m",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "description": "Border hydrological monitoring point for inflows into southwest Telangana.",
+      "source": "I&CAD Narayanpet"
+    }
+  },
+  {
+    "station_id": "STN_MANCHERIAL_GODAVARI",
+    "station_name": "Mancherial Godavari Bridge Gauge",
+    "water_body_name": "Godavari River",
+    "water_body_type": "RIVER",
+    "district_id": "mancherial",
+    "basin": "Godavari Basin",
+    "latitude": 18.8667,
+    "longitude": 79.4500,
+    "warning_threshold": 135.0,
+    "danger_threshold": 138.0,
+    "unit": "m",
+    "active": 1,
+    "metadata": {
+      "reference_type": "HISTORICAL_REFERENCE",
+      "description": "Key industrial area gauge station between Mancherial and Peddapalli.",
+      "source": "CWC Godavari Circle"
+    }
+  }
+]

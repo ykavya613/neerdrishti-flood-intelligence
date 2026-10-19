@@ -1,0 +1,6 @@
+{
+  "name": "NeerDrishti - Urban Flood Intelligence",
+  "description": "AI-Powered Urban Flood Intelligence and Advisory System for Telangana",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

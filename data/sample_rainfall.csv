@@ -1,0 +1,6 @@
+district,rainfall_mm_24h,rainfall_mm_3h,rainfall_score,status,timestamp
+Hyderabad,85.4,32.0,72,Heavy,2026-08-26 10:00:00
+Warangal,45.2,14.5,45,Moderate,2026-08-26 10:00:00
+Nirmal,115.0,48.0,88,Very Heavy,2026-08-26 10:00:00
+Mancherial,62.0,22.0,58,Moderate to Heavy,2026-08-26 10:00:00
+Bhadradri Kothagudem,130.5,55.0,95,Extremely Heavy,2026-08-26 10:00:00
